@@ -6,6 +6,7 @@ Versi 1.2
 - Otomatis data dari tambah kunjungan ke masing masing sheet kunjungannya
 - Fix bug zoom out di siha 2.1 untuk input penawaran prep
 - Fix bug opening fit zoom halaman menu
+- Fix bug nama file saat update versi
 
 Versi 1.1
 - Update Tombol otomatis 1x klik melakukan langkah berikut: cek versi terbaru RPA-PrEP, update chrome driver, menutup semua chrome yang terbuka, menjalankan chrome mode debug dan memilih default profil (jika chrome terdapat multi profil), serta membuka web PrEP untuk login.
