@@ -19,3 +19,4 @@ Versi 1.0
 - Proses RPA: Penawaran PrEP, Tambah Klien Baru, Tambah Kunjungan Baru, Kunjungan Memuai PrEP, Kunjungan Rutin PrEP, Kunjungan Insidental PrEP, Pemberian Obat
 - Validasi data sebelum proses RPA
 - Fitur: Tambah 20 row, Info Kunjungan Terakhir, Info Obat diinput Dokter
+- 
