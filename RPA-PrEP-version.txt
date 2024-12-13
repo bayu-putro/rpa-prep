@@ -3,7 +3,6 @@ Versi 1.2
 - Fix bug menjalankan chrome mode debug dengan merubah metode menjadi script vba
 - Tombol version history
 - Menambahkan mekanisme login SIHA dan PrEP dengan pengisian di form text excel
-- Otomatis data dari tambah kunjungan ke masing masing sheet kunjungannya
 - Fix bug zoom out di siha 2.1 untuk input penawaran prep
 - Fix bug opening fit zoom halaman menu
 - Fix bug nama file saat update versi
