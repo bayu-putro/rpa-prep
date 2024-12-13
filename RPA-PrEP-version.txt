@@ -1,4 +1,4 @@
-Versi 1.2
+Versi 1.2 (13 Des 2024)
 - Fix bug tombol ‘tambah 20 row’ pada halaman Kunjungan Rutin
 - Fix bug menjalankan chrome mode debug dengan merubah metode menjadi script vba
 - Tombol version history
@@ -7,11 +7,11 @@ Versi 1.2
 - Fix bug opening fit zoom halaman menu
 - Fix bug nama file saat update versi
 
-Versi 1.1
+Versi 1.1 (29 Nov 2024)
 - Update Tombol otomatis 1x klik melakukan langkah berikut: cek versi terbaru RPA-PrEP, update chrome driver, menutup semua chrome yang terbuka, menjalankan chrome mode debug dan memilih default profil (jika chrome terdapat multi profil), serta membuka web PrEP untuk login.
 - update semua proses RPA: menutup semua chrome yang terbuka, menjalankan chrome mode debug dan memilih default profil (jika chrome terdapat multi profil), menjalankan proses RPA, menutup chrome mode debug.
 
-Versi 1.0
+Versi 1.0 (1 Nov 2024)
 - Tombol otomatis untuk: Chrome Mode Debug, Update Chrome Driver, Switch Web PrEP learning & Web PrEP SIHA, Update Versi.
 - Tombol otomatis 1x klik: menjalankan chrome mode debug dan update chrome driver dalam 1x klik.
 - Tombol download langsung: Selenium Basic
