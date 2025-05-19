@@ -1,3 +1,8 @@
+Versi 2.1 (23 Mei 2025)
+- Fix bug proses simpan RPA Kunjungan Memulai PrEP dan Kunjungan Rutin PrEP.
+- Fix bug proses validasi RPA Kunjungan Memulai PrEP dan Kunjungan Rutin PrEP.
+
+
 Versi 2.0 (23 Mei 2025)
 - Tidak lagi menggunakan metode menggunakan selenium, sehingga tidak perlu instalasi selenium basic dan update chromedriver.
 - Efisiensi proses dengan menggabungkan proses tambah kunjungan baru ke dalam proses sesuai dengan tipe kunjungan PrEP nya.
