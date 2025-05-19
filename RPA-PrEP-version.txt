@@ -1,3 +1,14 @@
+Versi 2.0
+- Tidak lagi menggunakan metode menggunakan selenium, sehingga tidak perlu instalasi selenium basic dan update chromedriver.
+- Efisiensi proses dengan menggabungkan proses tambah kunjungan baru ke dalam proses sesuai dengan tipe kunjungan PrEP nya.
+- Efisiensi proses dengan menggabungkan proses input dan finalisasi pemberian obat ke dalam proses sesuai dengan tipe kunjungan PrEP nya.
+- Pilihan 'data di proses' berubah menyesuaikan 2 proses efisiensi di atas, pilihannya menjadi:
+  a. Ya, Semua Proses --> memproses tambah kunjungan, input data kunjungan, dan pemberian obat.
+  b. Ya, Input Data Kunjungan & Pemberian Obat --> memproses hanya input data kunjungan, dan pemberian obat.
+  c. Ya, Pemberian Obat --> memproses hanya pemberian obat.
+  d. Tidak --> data row tersebut akan di lewati saat proses RPA berjalan.
+
+
 Versi 1.3 (30 Des 2024)
 - Fix bug menu update versi di 1.2
 - Fix bug menu mulai 1x klik di versi 1.2
