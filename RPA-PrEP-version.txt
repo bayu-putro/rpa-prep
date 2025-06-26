@@ -1,3 +1,8 @@
+Versi 2.2 (26 Juni 2025)
+- Fix bug update versi
+- Fix keterangan cara metode proses automatisasi chrome
+- Menambahkan fitur download tool RPA versi terupdate
+
 Versi 2.1 (23 Mei 2025)
 - Fix bug proses simpan RPA Kunjungan Memulai PrEP dan Kunjungan Rutin PrEP.
 - Fix bug proses validasi RPA Kunjungan Memulai PrEP dan Kunjungan Rutin PrEP.
