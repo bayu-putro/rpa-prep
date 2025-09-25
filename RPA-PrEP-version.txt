@@ -1,3 +1,6 @@
+Versi 2.3 (25 September 2025)
+- Fix bug penawaran PrEP, data tidak tersimpan karena ada variabel mandatory baru
+
 Versi 2.2 (26 Juni 2025)
 - Fix bug update versi
 - Fix keterangan cara metode proses automatisasi chrome
@@ -44,3 +47,4 @@ Versi 1.0 (1 Nov 2024)
 - Proses RPA: Penawaran PrEP, Tambah Klien Baru, Tambah Kunjungan Baru, Kunjungan Memuai PrEP, Kunjungan Rutin PrEP, Kunjungan Insidental PrEP, Pemberian Obat
 - Validasi data sebelum proses RPA
 - Fitur: Tambah 20 row, Info Kunjungan Terakhir, Info Obat diinput Dokter
+
