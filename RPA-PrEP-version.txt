@@ -1,5 +1,8 @@
+Versi 2.4 (10 April 2026)
+- Fix bug penawaran PrEP, data tidak tersimpan karena ada variabel mandatory baru (Pekerjaan), Pekerjaan yang isiannya kosong, akan diisi "Belum Diketahui"
+
 Versi 2.3 (25 September 2025)
-- Fix bug penawaran PrEP, data tidak tersimpan karena ada variabel mandatory baru
+- Fix bug penawaran PrEP, data tidak tersimpan karena ada variabel mandatory baru (BPJS), BPJS yang isiannya kosong, akan diisi "Tidak"
 
 Versi 2.2 (26 Juni 2025)
 - Fix bug update versi
